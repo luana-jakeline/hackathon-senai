@@ -68,11 +68,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         .container {
             width: 650px;
             padding: 35px 45px;
-            background-color: #6b161693;
+            background-color: #49060686;
             border-radius: 14px;
-            box-shadow: 0 12px 28px #b1393956;
-            backdrop-filter: blur(4px);
-            border: 1px solid #2b030359;
+            box-shadow: 0 12px 28px #8a252556;
+            backdrop-filter: blur(8px);
+            border: 1px solid #64121259;
 
         }
 
